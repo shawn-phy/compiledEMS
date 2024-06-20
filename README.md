@@ -6,6 +6,8 @@ this repo consolidates the code from three different repos.
 It is a single monorepo structure after each module was completed in its own separate repo. THe modules have been added as submodules to their own individual directories. 
 
 Its a very primitive protoype with no authentication and authorization, I intend on using a service like Auth0 to handle all of those. 
+An illustration of how the system design looks like is as follows: 
+![image](systemdesign.png)
 
 ## Getting started
 ### Requirements 
